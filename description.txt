@@ -1,0 +1,7 @@
+Ứng dụng: máy tính cá nhân (Calculator)
+
+Mô tả: đây là 1 ứng dụng máy tính với các chức năng cơ bản.
+
+Công nghệ: ReactJS
+
+Note: còn nhiều bug, chưa hoàn thiện 100%.
